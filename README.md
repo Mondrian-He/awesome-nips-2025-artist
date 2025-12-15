@@ -4,6 +4,8 @@
 >[!important]
 >
 >***If you need to look at other conferences such as NeurIPS, ICLR, ICML, EMNLP, or ACL, you can check out [Awesome-artist](https://github.com/Mondrian-He/Awesome-artist) !!!🤩🤩🤩***
+
+
 > [!note]
 >
 > This project repository contains the long papers from NIPS 2025. Each paper’s framework diagrams, experimental figures, and other visuals are extracted to study their presentation techniques. Since the content is extensive and a single Markdown file cannot render everything reliably, **we split it into 128 separate Markdown files**, each covering approximately thirty-two papers. The following section indexes where each paper is located😁😁. Hope we can make progress together!
